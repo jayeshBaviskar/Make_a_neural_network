@@ -1,4 +1,4 @@
-# Make_a_neural_network
+# Make_a_neural_network (Python 3 Compatible) 
 This is the code for the "Make a Neural Network" - Intro to Deep Learning #2 by Siraj Raval on Youtube
 
 ##Overview
